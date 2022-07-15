@@ -1,0 +1,47 @@
+# Equibles.Stocks.Model.BalanceSheet
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Assets** | **long?** |  | [optional] 
+**TangibleAssets** | **long?** |  | [optional] 
+**CurrentAssets** | **long?** |  | [optional] 
+**CashAndCashEquivalents** | **long?** |  | [optional] 
+**CashAndShortTermInvestments** | **long?** |  | [optional] 
+**Inventory** | **long?** |  | [optional] 
+**CurrentNetReceivables** | **long?** |  | [optional] 
+**NonCurrentAssets** | **long?** |  | [optional] 
+**PropertyPlantEquipment** | **long?** |  | [optional] 
+**AccumulatedDepreciationAmortization** | **long?** |  | [optional] 
+**IntangibleAssets** | **long?** |  | [optional] 
+**IntangibleAssetsExcludingGoodwill** | **long?** |  | [optional] 
+**Goodwill** | **long?** |  | [optional] 
+**Investments** | **long?** |  | [optional] 
+**LongTermInvestments** | **long?** |  | [optional] 
+**ShortTermInvestments** | **long?** |  | [optional] 
+**OtherCurrentAssets** | **long?** |  | [optional] 
+**OtherNonCurrentAssets** | **long?** |  | [optional] 
+**Liabilities** | **long?** |  | [optional] 
+**CurrentLiabilities** | **long?** |  | [optional] 
+**CurrentAccountsPayable** | **long?** |  | [optional] 
+**DeferredRevenue** | **long?** |  | [optional] 
+**CurrentDebt** | **long?** |  | [optional] 
+**ShortTermDebt** | **long?** |  | [optional] 
+**NonCurrentLiabilities** | **long?** |  | [optional] 
+**CapitalLeaseObligations** | **long?** |  | [optional] 
+**LongTermDebt** | **long?** |  | [optional] 
+**CurrentLongTermDebt** | **long?** |  | [optional] 
+**LongTermDebtNonCurrent** | **long?** |  | [optional] 
+**ShortLongTermDebtTotal** | **long?** |  | [optional] 
+**OtherCurrentLiabilities** | **long?** |  | [optional] 
+**OtherNonCurrentLiabilities** | **long?** |  | [optional] 
+**Equity** | **long?** |  | [optional] 
+**TreasuryStock** | **long?** |  | [optional] 
+**RetainedEarnings** | **long?** |  | [optional] 
+**CommonStock** | **long?** |  | [optional] 
+**SharesOutstanding** | **long?** |  | [optional] 
+**AccumulatedOtherComprehensiveIncome** | **long?** |  | [optional] 
+**WorkingCapital** | **long?** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
